@@ -1,0 +1,33 @@
+.nav-link {
+    text-decoration: none;
+    margin: 5px;
+    font-size: 1.3em;
+    color: white;
+}
+.li {
+    list-style-type: none;
+    text-align: center;
+    padding: 5px;
+}
+.pd-10 {
+    padding: 10px;
+}
+.root {
+    flex-grow: 1;
+}
+.img {
+    max-width: 50px;
+    max-height: 50px;
+    margin: 10px
+}
+.menuButton {
+    margin-right: 2px;
+}
+.title {
+    flex-grow: 1
+}
+.link {
+    color: black;
+    text-decoration: none;
+    margin: 5px
+}

@@ -1,0 +1,12 @@
+{
+  "links": [
+    {"label": "Home", "url": "/"},
+    {"label": "Abouts", "url": "/about"}
+  ],
+  "img": {
+    "icon": "https://upload.wikimedia.org/wikipedia/en/e/e0/WPVG_icon_2016.svg",
+    "alt": "Icone"
+  }
+}
+
+
